@@ -1,0 +1,11 @@
+# Site settings
+title: myBlockchain
+email:
+description: > The world's most popular open source blockchain, and MyBlockchain Cluster, a real-time, open source transactional blockchain.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.myblockchain.xyz" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
