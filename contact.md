@@ -24,7 +24,7 @@ I'm glad to see you've finally learned how to properly ask questions. This isn't
 
 We were going to create a contact form but that seemed like excessive effort for what isn't really a very funny joke.
 
-Instead, tweet us your RFPs or how you plan to use your very own private blockchain
+Instead, tweet us[^1] your RFPs or how you plan to use your very own private blockchain
 to shift some paradigms or revolutionize your side of the box.
 
 <a href="https://twitter.com/intent/tweet?screen_name=larrysalibra" class="twitter-mention-button" data-size="large" data-related="larrysalibra,leoaw">Tweet to @larrysalibra</a>
@@ -33,3 +33,5 @@ to shift some paradigms or revolutionize your side of the box.
 <a href="https://twitter.com/intent/tweet?screen_name=LeoAW" class="twitter-mention-button" data-size="large" data-related="larrysalibra,leoaw">Tweet to @LeoAW</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 **Remember, your blockchain is [myBlockchain](/) and it's private!**
+
+[^1]: Tweet to [@larrysalibra](https://twitter.com/larrysalibra) or [@LeoAW](https://twitter.com/LeoAW)
