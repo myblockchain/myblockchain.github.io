@@ -26,12 +26,13 @@ s.parentNode.insertBefore(nt, s);
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}/social.png">
 <meta name="og:image" content="{{ site.url }}/social.png">
+<meta name="twitter:description" content="Your blockchain is myBlockchain!"
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en-us">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
+<meta property="og:description" content="Your blockchain is myBlockchain!">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 </head>
