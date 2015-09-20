@@ -20,4 +20,18 @@ var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(nt, s);
 })();
 </script>
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}/social.png">
+<meta name="og:image" content="{{ site.url }}/social.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en-us">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:site_name" content="{{ site.title }}">
 </head>
