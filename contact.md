@@ -32,4 +32,4 @@ to shift some paradigms or revolutionize your side of the box.
 
 <a href="https://twitter.com/intent/tweet?screen_name=LeoAW" class="twitter-mention-button" data-size="large" data-related="larrysalibra,leoaw">Tweet to @LeoAW</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-**Remember, your private blockchain is [myBlockchain](/)!**
+**Remember, your blockchain is [myBlockchain](/) and it's private!**
