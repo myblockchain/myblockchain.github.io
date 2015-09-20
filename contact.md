@@ -22,7 +22,7 @@ to get in touch.
 I'm glad to see you've finally learned how to properly ask questions. This isn't the
 [FAQ](/faq/), though, so feel free to use other sentence structures.
 
-We were going to create a contact form but that seemed liked excessive effort for what isn't really a very funny joke.
+We were going to create a contact form but that seemed like excessive effort for what isn't really a very funny joke.
 
 Instead, tweet us your RFPs or how you plan to use your very own private blockchain
 to shift some paradigms or revolutionize your side of the box.
